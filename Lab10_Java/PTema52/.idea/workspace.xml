@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PTema52:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e0fb1c6-a45b-4407-9ce6-34bbdedcfab9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bGAmV9HrZyUgO9wJB8IcUHaIWK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e0fb1c6-a45b-4407-9ce6-34bbdedcfab9" name="Default Changelist" comment="" />
+      <created>1588248215512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588248215512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser" timestamp="1588248355394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="213" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588248355394" />
+    <state x="739" y="264" key="FileChooserDialogImpl" timestamp="1588248461445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588248461445" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1588248392076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588248392076" />
+    <state x="342" y="146" key="new project wizard" timestamp="1588248463092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="146" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588248463092" />
+  </component>
+</project>

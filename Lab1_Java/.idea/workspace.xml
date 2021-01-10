@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="717bd799-1dd7-4872-a2e9-6b28a1553a47" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y4aYMGglZuwsnxLDRUghVVjEYU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1_Java.Main" />
+      <module name="Lab1_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar.seminar1.g1055.Main" />
+      <module name="Lab1_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seminar.seminar1.g1055.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1_Java.Main" />
+      <module name="Lab1_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1_Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="717bd799-1dd7-4872-a2e9-6b28a1553a47" name="Default Changelist" comment="" />
+      <created>1582204366946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582204366946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1270" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1607275869988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1270" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607275869988" />
+    <state x="1202" y="275" key="FileChooserDialogImpl" timestamp="1607275761286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1202" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607275761286" />
+    <state width="914" height="278" key="GridCell.Tab.0.bottom" timestamp="1607277187505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607277187505" />
+    <state width="914" height="278" key="GridCell.Tab.0.center" timestamp="1607277187505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607277187505" />
+    <state width="914" height="278" key="GridCell.Tab.0.left" timestamp="1607277187505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607277187505" />
+    <state width="914" height="278" key="GridCell.Tab.0.right" timestamp="1607277187505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607277187505" />
+    <state x="1118" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1607276933021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1118" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607276933021" />
+    <state x="662" y="118" width="595" height="804" key="find.popup" timestamp="1607276340736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="118" width="595" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607276340736" />
+    <state x="552" y="178" key="scopes" timestamp="1607276171981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1607276171981" />
+  </component>
+</project>

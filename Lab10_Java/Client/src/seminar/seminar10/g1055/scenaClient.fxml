@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="523.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="seminar.seminar10.g1055.ClientController">
+   <children>
+      <Label layoutX="21.0" layoutY="23.0" prefHeight="32.0" prefWidth="114.0" text="Titlu:" />
+      <TextField fx:id="txTitlu" layoutX="164.0" layoutY="23.0" prefHeight="32.0" prefWidth="378.0" />
+      <Button layoutX="21.0" layoutY="70.0" mnemonicParsing="false" onAction="#cerere" prefHeight="39.0" prefWidth="520.0" text="Afisare" />
+      <TextArea fx:id="txOut" layoutX="21.0" layoutY="136.0" prefHeight="153.0" prefWidth="520.0" />
+      <TitledPane fx:id="tPane" layoutX="21.0" layoutY="302.0" prefHeight="200.0" prefWidth="520.0" />
+   </children>
+</AnchorPane>

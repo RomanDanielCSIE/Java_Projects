@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PTema52:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PTema52_jar</output-path>
+    <root id="archive" name="PTema52.jar">
+      <element id="module-output" name="PTema52" />
+    </root>
+  </artifact>
+</component>
